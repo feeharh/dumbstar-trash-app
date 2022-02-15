@@ -1,0 +1,7 @@
+{
+  "name": "DUMBSTAR-TRASH-APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
