@@ -1,2 +1,2 @@
 # dumbstar-trash-app
-Recycling App
+Recycling App caled dumbstar trash
